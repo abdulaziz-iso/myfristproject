@@ -119,7 +119,8 @@ body {
 }
 
 .footer__brand img {
-    width: 128px;
+    width: 190px;
+    margin-bottom: 50px;
 }
 
 .footer__navigation-items {
@@ -167,8 +168,9 @@ body {
 
 @media only screen and (max-width: 991px){
     .container {
-        width: 95%;
+        width: 90%;
     }
+    /* Navigation menu */
     .main-navigation {
         display: none;
     }

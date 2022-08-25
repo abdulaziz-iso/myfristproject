@@ -44,4 +44,8 @@ input:focus {
     .half-row {
         width: 100%;
     }
+    .contact__email,
+    .contact__email {
+        padding: 0;
+    }
 }
