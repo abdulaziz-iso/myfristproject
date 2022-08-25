@@ -39,3 +39,9 @@ input:focus {
 .contact__send {
     margin-top: 1.87rem;
 }
+
+@media only screen and (max-width: 991Px){
+    .half-row {
+        width: 100%;
+    }
+}
